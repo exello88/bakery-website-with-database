@@ -16,6 +16,9 @@ loginBtn.addEventListener('click', () => {
 
 
         bodyElement.innerHTML = `    
+        <div class="loader">
+        <div class="loader__spinBlock"></div>
+      </div>
         <div class = "divmainTitle">
         <p class="mainTitle">Admin Field</p>
         </div>
@@ -43,6 +46,11 @@ loginBtn.addEventListener('click', () => {
     </div>
     <p class="orderArea__title">Review</p>
     <div class="orderArea"></div>`;
+
+        setTimeout(function () {
+            var loader = document.querySelector('.loader');
+            loader.style.display = 'none';
+        }, 3000);
         startDrawingAndWorkCatalog();
         startDrawingAndWorkOrder();
         startDrawingAndWorkBestChoice();
