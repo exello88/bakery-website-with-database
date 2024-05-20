@@ -1,0 +1,629 @@
+.fiebedAdmin {
+    width: 1440px;
+    height: 25px;
+    background-color: #FEF9E6;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 5px;
+}
+
+.fieldAdmin__btn {
+    cursor: pointer;
+    margin-left: 1150px;
+    width: 100px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.adminBtn__text {
+    color: #333;
+    font-size: 15px;
+    margin-top: 2px;
+    font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.fieldAdmin__btn:hover {
+    background-color: #000;
+
+    .adminBtn__text {
+        color: white;
+    }
+}
+
+.headerContent {
+    width: 1440px;
+    height: 630px;
+    background-color: #FEF9E6;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.header__mainText {
+    margin: 100px 0px 0px 200px;
+}
+
+.mainText__boldText {
+    font-weight: 700;
+    font-size: 30px;
+    width: 250px;
+    height: 100px;
+    font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.mainText__Text {
+    font-size: 20px;
+    width: 290px;
+    height: 170px;
+    margin-top: 15px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    color: #333;
+}
+
+.mainText__contacts {
+    display: flex;
+    margin-top: 10px;
+}
+
+.contacts__block {
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+}
+
+.img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+.header__mainPhoto {
+    width: 395px;
+    height: 520px;
+    object-fit: cover;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.header__priceAndDescription {
+    margin: 380px 0px 0px 85px;
+}
+
+.priceAndDescription__price {
+    font-weight: 700;
+    font-size: 25px;
+    font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.priceAndDescription__description {
+    font-size: 20px;
+    width: 230px;
+    height: 100px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    color: #333;
+}
+
+.header__ReadMoreBtn {
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 2px solid #000;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 17px;
+    cursor: pointer;
+}
+
+.ReadMoreBtn__Text {
+    margin-top: 13px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #333;
+}
+
+.header__ReadMoreBtn:hover {
+    background-color: #000;
+
+    .ReadMoreBtn__Text {
+        color: white;
+    }
+}
+
+.aboutAutor {
+    display: flex;
+    width: 1440px;
+    height: 665px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.aboutAutor__textAndSignature {
+    margin: 100px 0px 0px 200px;
+}
+
+.aboutAutor__title {
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.aboutAutor__mainText {
+    font-size: 20px;
+    width: 500px;
+    height: 250px;
+    margin-top: 20px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    color: #333;
+}
+
+.aboutAutor__signature {
+    width: 229px;
+    height: 110px;
+    object-fit: cover;
+    margin-top: 35px;
+    margin-left: 250px;
+}
+
+.aboutAutor__autorPhoto {
+    width: 500px;
+    height: 570px;
+    object-fit: cover;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.catalog {
+    width: 1440px;
+    padding-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 10px;
+    background-color: #F2F2F2;
+}
+
+.catalog__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    margin: 15px 0px 0px 600px;
+}
+
+.catalog__areaCard {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 135px 0px 200px;
+}
+
+.areaCard__card {
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    margin-right: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.card__content {
+    margin-left: 15px;
+}
+
+.card__Img {
+    width: 220px;
+    height: 280px;
+    background-color: black;
+    margin-top: 15px;
+}
+
+.card__title {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #333;
+}
+
+.card__price {
+    font-weight: 700;
+    font-size: 25px;
+    font-family: "Montserrat", "Arial", sans-serif;
+    margin-top: 10px;
+}
+
+.jobInformation {
+    width: 1440px;
+    height: 630px;
+    background-color: #FEF9E6;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.jobInformation__Img {
+    width: 370px;
+    height: 440px;
+    object-fit: cover;
+    margin: 50px 0px 0px 225px;
+}
+
+.jobInformation__mainContent {
+    margin-left: 10px;
+}
+
+.mainContent__title {
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    font-family: "Montserrat", "Arial", sans-serif;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+
+.mainContent__areaBlocks {
+    margin-left: 70px;
+}
+
+.areaBlocks__line1 {
+    display: flex;
+    margin-top: 15px;
+}
+
+.areaBlocks__line2 {
+    display: flex;
+}
+
+.mainContent__block {
+    width: 250px;
+    height: 170px;
+    background-color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.mainContent__NumBlock {
+    font-size: 20px;
+    width: 90px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.mainContent__titleBlock {
+    font-weight: 700;
+    font-size: 20px;
+    width: 230px;
+    height: 30px;
+    margin-top: 45px;
+    margin-left: 10px;
+    font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.factsAndQuestions {
+    width: 1440px;
+    height: 440px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.factsAndQuestions__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    margin: 15px 0px 20px 560px;
+}
+
+.factsAndQuestions__areaQuestionsBlock {
+    margin: 10px 0px 0px 200px;
+}
+
+.areaQuestionsBlock__Questionsblock {
+    width: 1040px;
+    height: 60px;
+    background-color: #F2F2F2;
+    display: flex;
+    cursor: pointer;
+}
+
+.QuestionsBlock__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.QuestionsBlock__more {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #353535a8;
+    margin-top: 7px;
+}
+
+.QuestionsOne {
+    margin-left: 740px;
+}
+
+.QuestionsTwo {
+    margin-left: 591px;
+}
+
+.QuestionsThree {
+    margin-left: 709px;
+}
+
+.QuestionsFour {
+    margin-left: 771px;
+}
+
+.QuestionsFive {
+    margin-left: 598px;
+}
+
+.bestChoice {
+    width: 1440px;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bestChoice__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    margin: 15px 0px 20px 560px;
+}
+
+.bestChoice__areaCard {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 135px 0px 200px;
+    width: 1220px;
+}
+
+.peopleReview {
+    width: 1440px;
+    background-color: #FEF9E6;
+    padding-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 30px;
+}
+
+.peopleReview__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    margin: 25px 0px 20px 500px;
+}
+
+.peopleReview__areaCardReview {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 135px 0px 225px;
+}
+
+.areaCardReview__card {
+    flex-wrap: wrap;
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.cardReview__Img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50% 50% 50% 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.cardReview__name {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #333;
+}
+
+.cardReview__mainText {
+    font-size: 15px;
+    width: 280px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    color: #33333383;
+    margin: 15px 10px 10px 10px;
+}
+
+.cardReview__date {
+    font-size: 15px;
+    width: 230px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    color: #33333341;
+    margin: 15px 10px 10px 10px;
+}
+
+.makeOrder {
+    width: 1440px;
+    height: 630px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F2F2F2;
+}
+
+.makeOrder__mainContent {
+    margin: 100px 0px 0px 200px;
+}
+
+.makeOrder__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    margin: 25px 0px 20px 100px;
+}
+
+.makeOrder__emailAndName {
+    display: flex;
+}
+
+.emailAndName__nameInputAndTitle {
+    margin-left: 20px;
+}
+
+.emailInputAndTitle__emailTitle {
+    font-size: 15px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    margin: 15px 10px 10px 10px;
+}
+
+.emailInputAndTitle__emailInput {
+    width: 200px;
+    height: 40px;
+    border: 1px solid #333;
+    padding-left: 5px;
+}
+
+.emailInputAndTitle__nameTitle {
+    font-size: 15px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    margin: 15px 10px 10px 10px;
+}
+
+.emailInputAndTitle__nameInput {
+    width: 200px;
+    height: 40px;
+    border: 1px solid #333;
+    padding-left: 5px;
+}
+
+.mainContent__addressTitle {
+    font-size: 15px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    margin: 15px 10px 10px 10px;
+}
+
+.emailInputAndTitle__addressInput {
+    width: 420px;
+    height: 40px;
+    border: 1px solid #333;
+    padding-left: 5px;
+}
+
+.emailInputAndTitle__messageTitle {
+    font-size: 15px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    margin: 15px 10px 10px 10px;
+}
+
+.emailInputAndTitle__messageInput {
+    width: 420px;
+    height: 100px;
+    border: 1px solid #333;
+    padding-left: 5px;
+    padding-top: 5px;
+    resize: none;
+}
+
+.makeOrder__btn {
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    font-family: "Open Sans", "Arial", sans-serif;
+    padding-top: 12px;
+    padding-left: 35px;
+    cursor: pointer;
+}
+
+.makeOrder__btn:hover {
+    border: 0px;
+}
+
+.makeOrder__img {
+    width: 500px;
+    height: 570px;
+    object-fit: cover;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.peopleReviewInput {
+    width: 1440px;
+    height: 550px;
+    display: grid;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F2F2F2;
+}
+
+.peopleReviewInput__title {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    width: 400px;
+    height: 30px;
+    margin: 25px 0px 0px 100px;
+}
+
+.peopleReviewInput__textForImg, .peopleReviewInput__textForReview, .peopleReviewInput__textForImg, .peopleReviewInput__textForDate {
+    font-size: 15px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    margin: 15px 10px 10px 190px;
+}
+
+.peopleReviewInput__review {
+    width: 420px;
+    height: 100px;
+    border: 1px solid #333;
+    padding-left: 5px;
+    padding-top: 5px;
+    resize: none;
+    margin-left: 200px;
+}
+
+.peopleReviewInput__name {
+    margin-left: 200px;
+    width: 200px;
+    height: 30px;
+}
+
+.peopleReviewInput__img {
+    margin-left: 200px;
+}
+
+.peopleReviewInput__date {
+    margin-left: 200px;
+    width: 150px;
+}
+
+.peopleReviewInput__btn {
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 2px solid #000;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 17px;
+    margin-left: 190px;
+    cursor: pointer;
+}
+
+.peopleReviewInput__btnText {
+    margin-top: 13px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #333;
+}

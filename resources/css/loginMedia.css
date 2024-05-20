@@ -1,0 +1,250 @@
+@media(max-width: 1440px) {
+    .mainTitle{
+        font-size: 45px;
+    }
+    .catalog,.best{
+        width: 1220px;
+    }
+    .catalog__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 570px;
+    }
+    .catalog__areaCard,.bestChoice__areaCard{
+        margin: 20px 0px 0px 35px;
+    }
+    .areaCard__card{
+        width: 280px;
+        height: 360px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 250px;
+        height: 220px;
+    }
+    .card__title{
+        font-size: 20px;
+    }
+    .card__price{
+        font-size: 25px;
+    }
+    .card__deleteBTN {
+        width: 250px;
+    }
+    .orderArea{
+        width: 1220px;
+    }
+    .orderArea__ordeBlock {
+        width: 580px;
+    }
+    .areaForChange{
+        margin-left: 15px;
+    }
+}
+
+@media(max-width: 1220px) {
+    .mainTitle{
+        font-size: 45px;
+    }
+    .catalog,.best{
+        width: 990px;
+    }
+    .catalog__title{
+        width: 260px;
+        font-size: 20px;
+        margin-left: 450px;
+    }
+    .catalog__areaCard,.bestChoice__areaCard{
+        margin: 20px 0px 0px 35px;
+    }
+    .areaCard__card{
+        width: 220px;
+        height: 330px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 190px;
+        height: 200px;
+    }
+    .card__title{
+        font-size: 15px;
+    }
+    .card__price{
+        font-size: 20px;
+    }
+    .card__deleteBTN {
+        width: 190px;
+    }
+    .orderArea__ordeBlock {
+        width: 480px;
+    }
+    .orderBlock__textBeforeForEmail, .orderBlock__textBeforeForName, .orderBlock__textBeforeForAdress, .orderBlock__textBeforeForMessage {
+        font-size: 20px;
+    }
+    .orderBlock__textForMessage,.orderBlock__textForAdress,.orderBlock__textForName,.orderBlock__textForEmail{
+        font-size: 30px;
+    }
+    .areaForChange{
+        width: 210px;
+        margin-left: 5px;
+    }
+    .areaForChange__input{
+        width: 130px;
+    }
+    .orderArea{
+        width: 990px;
+    }
+}
+
+@media(max-width: 990px) {
+    .catalog,.best{
+        width: 800px;
+    }
+    .catalog__title{
+        width: 260px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 360px;
+    }
+    .catalog__areaCard,.bestChoice__areaCard{
+        margin: 10px 0px 0px 35px;
+    }
+    .areaCard__card{
+        width: 360px;
+        height: 505px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 330px;
+        height: 345px;
+    }
+    .card__title{
+        font-size: 20px;
+        width: 170px;
+    }
+    .card__price{
+        font-size: 25px;
+        width: 100px;
+    }
+    .card__deleteBTN {
+        width: 330px;
+    }
+    .orderArea__ordeBlock {
+        width: 650px;
+        margin-top: 10px;
+    }
+    .areaForChange{
+        width: 350px
+    }
+    .areaForChange__input{
+        width: 270px;
+    }
+    .orderArea{
+        width: 800px;
+    }
+}
+
+@media(max-width: 800px) {
+    .catalog,.best{
+        width: 540px;
+    }
+    .catalog__title{
+        width: 260px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 240px;
+    }
+    .catalog__areaCard,.bestChoice__areaCard{
+        margin: 10px 0px 0px 100px;
+    }
+    .areaCard__card{
+        width: 360px;
+        height: 505px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 330px;
+        height: 345px;
+    }
+    .card__title{
+        font-size: 20px;
+        width: 170px;
+    }
+    .card__price{
+        font-size: 25px;
+        width: 100px;
+    }
+    .orderArea__ordeBlock {
+        width: 500px;
+    }
+    .orderArea{
+        width: 540px;
+    }
+}
+
+@media(max-width: 540px) {
+    .catalog,.best{
+        width: 340px;
+    }
+    .catalog__title{
+        width: 80px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 140px;
+    }
+    .catalog__areaCard,.bestChoice__areaCard{
+        margin: 10px 0px 0px 20px;
+    }
+    .areaCard__card{
+        width: 300px;
+        height: 460px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 270px;
+        height: 300px;
+    }
+    .card__title{
+        font-size: 20px;
+        width: 170px;
+    }
+    .card__price{
+        font-size: 25px;
+        width: 100px;
+    }
+    .card__deleteBTN {
+        width: 270px;
+    }
+    .InputNameProduct,.InputPriceProduct{
+        width: 300px;
+    }
+    .newProduct{
+        width: 320px;
+    }
+    .addCatalogBtn{
+        width: 300px;
+        margin-left: 10px;
+    }
+    .orderArea__ordeBlock {
+        width: 300px;
+    }
+    .orderBlock__textBeforeForEmail, .orderBlock__textBeforeForName, .orderBlock__textBeforeForAdress, .orderBlock__textBeforeForMessage {
+        font-size: 10px;
+    }
+    .orderBlock__textForMessage,.orderBlock__textForAdress,.orderBlock__textForName,.orderBlock__textForEmail{
+        font-size: 15px;
+    }
+    .orderArea__title{
+        font-size: 25px;
+        margin-left: 130px;
+    }
+    .areaForChange{
+        width: 290px
+    }
+    .areaForChange__input{
+        width: 210px;
+    }
+    .orderArea{
+        width: 340px;
+    }
+}

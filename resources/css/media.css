@@ -1,0 +1,1261 @@
+@media(max-width: 1440px) {
+    .fieldAdmin{
+        width: 1220px;
+        height: 25px;
+    }
+    .fieldAdmin__btn{
+        margin-left: 1000px;
+    }
+    .headerContent{
+        width: 1220px;
+        height: 530px;
+    }
+    .header__mainText {
+        margin-left: 50px;
+    }
+    .mainText__boldText{
+        font-size: 25px;
+        width: 300px;
+        height: 75px;
+    }
+    .mainText__Text{
+        font-size: 20px;
+        width: 300px;
+        height: 140px;
+    }
+    .header__mainPhoto {
+        width: 370px;
+        height: 440px;
+        margin-left: 80px;
+    }
+    .header__priceAndDescription{
+        margin-top: 300px;
+        margin-left: 90px;
+    }
+    .priceAndDescription__price {
+        font-size: 25px;
+    }
+    .priceAndDescription__description{
+        font-size: 20px;
+        height: 100px;
+    }
+
+    .aboutAutor{
+        width: 1220px;
+    }
+    .aboutAutor__textAndSignature{
+        margin: 50px 0px 0px 145px;
+    }
+    .aboutAutor__title{
+        font-size: 25px;
+        width: 330px;
+    }
+    .aboutAutor__mainText{
+        font-size: 20px;
+        width: 440px;
+        height: 300px;
+    }
+    .aboutAutor__signature{
+        width: 140px;
+        height: 68px;
+        margin-left: 230px;
+    }
+    .aboutAutor__autorPhoto{
+        width: 450px;
+        height: 500px;
+    }
+    .catalog{
+        width: 1220px;
+    }
+    .catalog__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 570px;
+    }
+    .catalog__areaCard{
+        margin: 20px 0px 0px 35px;
+    }
+    .areaCard__card{
+        width: 280px;
+        height: 320px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 250px;
+        height: 220px;
+    }
+    .card__title{
+        font-size: 20px;
+    }
+    .card__price{
+        font-size: 25px;
+    }
+
+    .jobInformation{
+        width: 1220px;
+    }
+    .jobInformation__Img{
+        margin-left: 35px;
+        width: 450px;
+        height: 510px;
+    }
+    .jobInformation__mainContent{
+        margin-left: 0px;
+    }
+    .mainContent__title{
+        margin-top: 60px;
+    }
+    .mainContent__block{
+        width: 290px;
+        height: 200px;
+    }
+    .mainContent__titleBlock{
+        margin-top: 55px;
+    }
+
+    .factsAndQuestions{
+        width: 1220px;
+    }
+    .factsAndQuestions__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 500px;
+        margin-top: 20px;
+    }
+    .factsAndQuestions__areaQuestionsBlock{
+        margin: 10px 0px 0px 35px;
+    }
+    .areaQuestionsBlock__Questionsblock{
+        width: 1150px;
+    }
+    .QuestionsOne{
+        margin-left: 850px;
+    }
+    .QuestionsTwo{
+        margin-left: 700px;
+    }
+    .QuestionsThree{
+        margin-left: 818px;
+    }
+    .QuestionsFour{
+        margin-left: 880px;
+    }
+    .QuestionsFive{
+        margin-left: 705px;
+    }
+
+    .bestChoice{
+        width: 1220px;
+        height: 420px;
+    }
+    .bestChoice__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 550px;
+    }
+    .bestChoice__areaCard{
+        margin: 20px 0px 0px 35px;
+        width: 1180px;
+    }
+    .peopleReview{
+        width: 1220px;
+    }
+    .peopleReview__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 500px;
+    }
+    .peopleReview__areaCardReview{
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .areaCardReview__card{
+        width: 370px;
+        height: 450px;
+    }
+    .cardReview__Img{
+        width: 200px;
+        height: 200px;
+    }
+    .cardReview__name{
+        font-size: 25px;
+    }
+    .cardReview__mainText{
+        font-size: 20px;
+    }
+    .makeOrder{
+        width: 1220px;
+    }
+    .makeOrder__mainContent{
+        margin: 50px 0px 0px 150px;
+    }
+    .makeOrder__title{
+        width: 300px;
+    }
+    .emailInputAndTitle__emailTitle,.emailInputAndTitle__nameTitle
+    ,.mainContent__addressTitle,.emailInputAndTitle__messageTitle{
+        font-size: 20px;
+    }
+    .emailInputAndTitle__emailInput,.emailInputAndTitle__nameInput{
+        width: 220px;
+        height: 50px;
+    }
+    .emailInputAndTitle__addressInput{
+        width: 460px;
+        height: 50px;
+    }
+    .emailInputAndTitle__messageInput{
+        width: 460px;
+    }
+    .makeOrder__img{
+        width: 390px;
+        height: 530px;
+    }
+    .peopleReviewInput{
+        width: 1220px;
+    }
+}
+
+@media(max-width: 1220px) {
+    .fieldAdmin{
+        width: 990px;
+        height: 20px;
+    }
+    .fieldAdmin__btn{
+        margin-left: 840px;
+        height: 15px;
+    }
+    .adminBtn__text{
+        font-size: 13px;
+        margin-top: 0px;
+    }
+    .headerContent{
+        width: 990px;
+        height: 530px;
+    }
+    .header__mainText {
+        margin-left: 50px;
+    }
+    .mainText__boldText{
+        font-size: 20px;
+        width: 200px;
+        height: 60px;
+    }
+    .mainText__Text{
+        font-size: 15px;
+        width: 200px;
+        height: 140px;
+    }
+    .header__mainPhoto {
+        width: 325px;
+        height: 420px;
+    }
+    .header__priceAndDescription{
+        margin-top: 320px;
+        margin-left: 55px;
+    }
+    .priceAndDescription__price {
+        font-size: 20px;
+    }
+    .priceAndDescription__description{
+        font-size: 15px;
+        height: 70px;
+    }
+
+    .aboutAutor{
+        width: 990px;
+    }
+    .aboutAutor__textAndSignature{
+        margin: 50px 0px 0px 50px;
+    }
+    .aboutAutor__title{
+        font-size: 20px;
+        width: 260px;
+    }
+    .aboutAutor__mainText{
+        font-size: 15px;
+        width: 380px;
+        height: 200px;
+    }
+    .aboutAutor__signature{
+        width: 140px;
+        height: 68px;
+        margin-left: 230px;
+    }
+    .aboutAutor__autorPhoto{
+        width: 450px;
+        height: 500px;
+    }
+    .catalog{
+        width: 990px;
+    }
+    .catalog__title{
+        width: 260px;
+        font-size: 20px;
+        margin-left: 450px;
+    }
+    .catalog__areaCard{
+        margin: 20px 0px 0px 35px;
+    }
+    .areaCard__card{
+        width: 220px;
+        height: 300px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 190px;
+        height: 200px;
+    }
+    .card__title{
+        font-size: 15px;
+    }
+    .card__price{
+        font-size: 20px;
+    }
+
+    .jobInformation{
+        width: 990px;
+    }
+    .jobInformation__Img{
+        margin-left: 35px;
+    }
+    .jobInformation__mainContent{
+        margin-left: 0px;
+    }
+    .mainContent__titleBlock{
+        margin-top: 35px;
+    }
+    .mainContent__title{
+        margin-top: 60px;
+    }
+    .mainContent__block{
+        width: 200px;
+        height: 150px;
+    }
+    .mainContent__titleBlock{
+        margin-top: 40px;
+        width: 170px;
+    }
+    .factsAndQuestions{
+        width: 990px;
+    }
+    .factsAndQuestions__title{
+        width: 260px;
+        font-size: 20px;
+        margin-left: 400px;
+    }
+    .factsAndQuestions__areaQuestionsBlock{
+        margin: 10px 0px 0px 35px;
+    }
+    .areaQuestionsBlock__Questionsblock{
+        width: 930px;
+    }
+    .QuestionsOne{
+        margin-left: 630px;
+    }
+    .QuestionsTwo{
+        margin-left: 481px;
+    }
+    .QuestionsThree{
+        margin-left: 598px;
+    }
+    .QuestionsFour{
+        margin-left: 661px;
+    }
+    .QuestionsFive{
+        margin-left: 490px;
+    }
+
+    .bestChoice{
+        width: 990px;
+    }
+    .bestChoice__title{
+        width: 260px;
+        font-size: 20px;
+        margin-left: 435px;
+    }
+    .bestChoice__areaCard{
+        margin: 20px 0px 0px 35px;
+        width: 950px;
+    }
+    .peopleReview{
+        width: 990px;
+    }
+    .peopleReview__title{
+        width: 260px;
+        font-size: 20px;
+        margin-left: 395px;
+    }
+    .peopleReview__areaCardReview{
+        margin-left: 0px;
+    }
+    .cardReview__Img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50% 50% 50% 50%;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+    .areaCardReview__card{
+        width: 300px;
+        height: 350px;
+    }
+    .makeOrder{
+        width: 990px;
+    }
+    .makeOrder__mainContent{
+        margin: 50px 0px 0px 35px;
+    }
+    .makeOrder__title{
+        width: 300px;
+    }
+    .makeOrder__img{
+        width: 390px;
+        height: 530px;
+    }
+    .peopleReviewInput{
+        width: 990px;
+    }
+}
+
+@media(max-width: 990px) {
+/*     * {
+        border: 1px solid red; 
+    } */
+    .fieldAdmin{
+        width: 800px;
+        height: 20px;
+    }
+    .fieldAdmin__btn{
+        width: 80px;
+        margin-left: 680px;
+        height: 15px;
+    }
+    .adminBtn__text{
+        font-size: 10px;
+        margin-top: 2px;
+    }
+    .headerContent{
+        width: 800px;
+        height: 430px;
+    }
+    .header__mainText {
+        margin-left: 50px;
+    }
+    .mainText__boldText{
+        font-size: 15px;
+        width: 200px;
+        height: 30px;
+    }
+    .mainText__Text{
+        font-size: 10px;
+        width: 200px;
+        height: 60px;
+    }
+    .img {
+        width: 20px;
+        height: 20px;
+    }
+    .header__mainPhoto {
+        width: 250px;
+        height: 340px;
+        margin-left: 40px;
+    }
+    .header__priceAndDescription{
+        margin-top: 270px;
+        margin-left: 40px;
+    }
+    .priceAndDescription__price {
+        font-size: 15px;
+    }
+    .priceAndDescription__description{
+        font-size: 10px;
+        height: 40px;
+        width: 150px;
+    }
+    .header__ReadMoreBtn {
+        width: 170px;
+    }
+    .ReadMoreBtn__Text {
+        font-size: 15px;
+        margin-top: 13px;
+    }
+
+    .aboutAutor{
+        width: 800px;
+        height: 470px;
+    }
+    .aboutAutor__textAndSignature{
+        margin: 50px 0px 0px 100px;
+    }
+    .aboutAutor__title{
+        font-size: 20px;
+        width: 260px;
+    }
+    .aboutAutor__mainText{
+        font-size: 15px;
+        width: 300px;
+        height: 240px;
+        margin-top: 10px;
+    }
+    .aboutAutor__signature{
+        width: 140px;
+        height: 68px;
+        margin-left: 160px;
+    }
+    .aboutAutor__autorPhoto{
+        width: 250px;
+        height: 300px;
+    }
+    .catalog{
+        width: 800px
+    }
+    .catalog__title{
+        width: 260px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 360px;
+    }
+    .catalog__areaCard{
+        margin: 10px 0px 0px 35px;
+    }
+    .areaCard__card{
+        width: 360px;
+        height: 455px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 330px;
+        height: 345px;
+    }
+    .card__title{
+        font-size: 20px;
+        width: 170px;
+    }
+    .card__price{
+        font-size: 25px;
+        width: 100px;
+    }
+
+    .jobInformation{
+        width: 800px;
+    }
+    .jobInformation__Img{
+        margin-left: 35px;
+        margin-top: 150px;
+        width: 330px;
+        height: 400px;
+    }
+    .jobInformation__mainContent{
+        margin-left: 0px;
+    }
+    .mainContent__title{
+        margin-top: 60px;
+        width: 230px;
+    }
+    .areaBlocks__line1,.areaBlocks__line2{
+        display: grid;
+    }
+    .mainContent__block{
+        width: 250px;
+        height: 120px;
+    }
+    .mainContent__titleBlock{
+        margin-top: 20px;
+    }
+
+    .factsAndQuestions{
+        width: 800px;
+    }
+    .factsAndQuestions__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 315px;
+        margin-top: 20px;
+    }
+    .factsAndQuestions__areaQuestionsBlock{
+        margin: 10px 0px 0px 35px;
+    }
+    .areaQuestionsBlock__Questionsblock{
+        width: 730px;
+    }
+    .QuestionsOne{
+        margin-left: 430px;
+    }
+    .QuestionsTwo{
+        margin-left: 280px;
+    }
+    .QuestionsThree{
+        margin-left: 398px;
+    }
+    .QuestionsFour{
+        margin-left: 460px;
+    }
+    .QuestionsFive{
+        margin-left: 285px;
+    }
+
+    .bestChoice{
+        width: 800px;
+        height: 1000px;
+    }
+    .bestChoice__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 330px;
+    }
+    .bestChoice__areaCard{
+        margin: 20px 0px 0px 35px;
+        width: 765px;
+    }
+
+    .peopleReview{
+        width: 800px;
+    }
+    .peopleReview__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 300px;
+    }
+    .peopleReview__areaCardReview{
+        margin-left: 20px;
+        margin-right: 0px;
+    }
+    .areaCardReview__card{
+        width: 360px;
+        height: 455px;
+        margin-top: 10px;
+    }
+    .cardReview__Img{
+        width: 200px;
+        height: 200px;
+    }
+    .cardReview__name{
+        font-size: 25px;
+    }
+    .cardReview__mainText{
+        font-size: 20px;
+    }
+    .makeOrder{
+        width: 800px;
+    }
+    .makeOrder__mainContent{
+        margin: 50px 0px 0px 35px;
+    }
+    .makeOrder__title{
+        width: 230px;
+    }
+    .emailInputAndTitle__emailTitle,.emailInputAndTitle__nameTitle
+    ,.mainContent__addressTitle,.emailInputAndTitle__messageTitle{
+        font-size: 20px;
+    }
+    .emailInputAndTitle__emailInput,.emailInputAndTitle__nameInput{
+        width: 170px;
+        height: 50px;
+    }
+    .emailInputAndTitle__addressInput{
+        width: 360px;
+        height: 50px;
+    }
+    .emailInputAndTitle__messageInput{
+        width: 360px;
+    }
+    .makeOrder__img{
+        width: 280px;
+        height: 380px;
+        margin-top: 90px;
+    }
+    .peopleReviewInput{
+        width: 800px;
+    }
+    .peopleReviewInput__title {
+        font-size: 20px;
+        margin-left: 35px;
+    }
+    .peopleReviewInput__textForImg, .peopleReviewInput__textForReview, .peopleReviewInput__textForImg, .peopleReviewInput__textForDate {
+        margin: 15px 10px 10px 35px;
+    }
+    .peopleReviewInput__review,.peopleReviewInput__name,.peopleReviewInput__img,.peopleReviewInput__date{
+        margin-left: 40px;
+    }
+}
+
+@media(max-width: 800px) {
+   /* * {
+        border: 1px solid red; 
+    }  */
+    .fieldAdmin{
+        width: 540px;
+        height: 20px;
+    }
+    .fieldAdmin__btn{
+        width: 80px;
+        margin-left: 400px;
+        height: 15px;
+    }
+    .adminBtn__text{
+        font-size: 10px;
+        margin-top: 2px;
+    }
+    .headerContent{
+        width: 540px;
+        height: 1030px;
+        display: grid;
+    }
+    .header__mainText {
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    .mainText__boldText{
+        font-size: 30px;
+        width: 400px;
+        height: 60px;
+    }
+    .mainText__Text{
+        font-size: 20px;
+        width: 400px;
+        height: 130px;
+    }
+    .img {
+        width: 20px;
+        height: 20px;
+    }
+    .header__mainPhoto {
+        width: 350px;
+        height: 440px;
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+    .header__priceAndDescription{
+        margin-left: 40px;
+        margin-top: 0px;
+    }
+    .priceAndDescription__price {
+        font-size: 25px;
+    }
+    .priceAndDescription__description{
+        font-size: 20px;
+        height: 80px;
+        width: 300px;
+    }
+    .header__ReadMoreBtn {
+        width: 170px;
+    }
+    .ReadMoreBtn__Text {
+        font-size: 15px;
+        margin-top: 13px;
+    }
+
+    .aboutAutor{
+        display: grid;
+        width: 540px;
+        height: 1150px;
+    }
+    .aboutAutor__textAndSignature{
+        margin: 50px 0px 0px 35px;
+    }
+    .aboutAutor__title{
+        font-size: 30px;
+        width: 400px;
+    }
+    .aboutAutor__mainText{
+        font-size: 25px;
+        width: 490px;
+        height: 400px;
+        margin-top: 10px;
+    }
+    .aboutAutor__signature{
+        width: 140px;
+        height: 68px;
+        margin-left: 320px;
+    }
+    .aboutAutor__autorPhoto{
+        width: 400px;
+        height: 500px;
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+    .catalog{
+        width: 540px;
+    }
+    .catalog__title{
+        width: 260px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 240px;
+    }
+    .catalog__areaCard{
+        margin: 10px 0px 0px 100px;
+    }
+    .areaCard__card{
+        width: 360px;
+        height: 455px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 330px;
+        height: 345px;
+    }
+    .card__title{
+        font-size: 20px;
+        width: 170px;
+    }
+    .card__price{
+        font-size: 25px;
+        width: 100px;
+    }
+
+    .jobInformation{
+        width: 540px;
+        height: 1060px;
+        display: grid;
+    }
+    .jobInformation__Img{
+        margin-left: 100px;
+        margin-top: 30px;
+        width: 330px;
+        height: 400px;
+    }
+    .jobInformation__mainContent{
+        margin-left: 0px;
+    }
+    .mainContent__title{
+        margin-top: 0px;
+        margin-left: 145px;
+        width: 230px;
+    }
+    .areaBlocks__line1,.areaBlocks__line2{
+        display: grid;
+    }
+    .mainContent__block{
+        width: 390px;
+        height: 120px;
+    }
+    .mainContent__titleBlock{
+        margin-top: 20px;
+    }
+
+    .factsAndQuestions{
+        width: 540px;
+    }
+    .factsAndQuestions__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+    .factsAndQuestions__areaQuestionsBlock{
+        margin: 10px 0px 0px 5px;
+    }
+    .areaQuestionsBlock__Questionsblock{
+        width: 500px;
+        margin-left: 15px;
+    }
+    .QuestionsOne{
+        margin-left: 210px;
+    }
+    .QuestionsTwo{
+        margin-left: 60px;
+    }
+    .QuestionsThree{
+        margin-left: 178px;
+    }
+    .QuestionsFour{
+        margin-left: 240px;
+    }
+    .QuestionsFive{
+        margin-left: 65px;
+    }
+
+    .bestChoice{
+        width: 540px;
+        height: 2000px;
+    }
+    .bestChoice__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 200px;
+    }
+    .bestChoice__areaCard{
+        margin: 20px 0px 0px 110px;
+        width: 360px;
+        display: grid;
+    }
+
+    .peopleReview{
+        width: 540px;
+    }
+    .peopleReview__title{
+        width: 260px;
+        font-size: 25px;
+        margin-left: 150px;
+    }
+    .peopleReview__areaCardReview{
+        margin-left: 80px;
+        margin-right: 0px;
+        width: 380px;
+    }
+    .areaCardReview__card{
+        width: 360px;
+        height: 455px;
+        margin-top: 10px;
+    }
+    .cardReview__Img{
+        width: 200px;
+        height: 200px;
+    }
+    .cardReview__name{
+        font-size: 25px;
+    }
+    .cardReview__mainText{
+        font-size: 20px;
+    }
+    .makeOrder{
+        width: 540px;
+        height: 900px;
+        display: grid;
+    }
+    .makeOrder__mainContent{
+        margin: 50px 0px 0px 35px;
+    }
+    .makeOrder__title{
+        width: 230px;
+    }
+    .emailInputAndTitle__emailTitle,.emailInputAndTitle__nameTitle
+    ,.mainContent__addressTitle,.emailInputAndTitle__messageTitle{
+        font-size: 20px;
+    }
+    .emailInputAndTitle__emailInput,.emailInputAndTitle__nameInput{
+        width: 230px;
+        height: 50px;
+    }
+    .emailInputAndTitle__addressInput{
+        width: 485px;
+        height: 50px;
+    }
+    .emailInputAndTitle__messageInput{
+        width: 485px;
+    }
+    .makeOrder__img{
+        width: 230px;
+        height: 320px;
+        margin-left: 150px;
+        margin-top: 0px;
+    }
+    .peopleReviewInput{
+        width: 540px;
+    }
+}
+
+@media(max-width: 540px) {
+   * {
+        border: 1px solid red; 
+    } 
+    .fieldAdmin{
+        width: 340px;
+        height: 20px;
+    }
+    .fieldAdmin__btn{
+        width: 80px;
+        margin-left: 240px;
+        height: 15px;
+    }
+    .adminBtn__text{
+        font-size: 10px;
+        margin-top: 2px;
+    }
+    .headerContent{
+        width: 340px;
+        height: 750px;
+        display: grid;
+    }
+    .header__mainText {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .mainText__boldText{
+        font-size: 20px;
+        width: 310px;
+        height: 50px;
+    }
+    .mainText__Text{
+        font-size: 15px;
+        width: 310px;
+        height: 80px;
+    }
+    .mainText__contacts {
+        width: 100px;
+    }
+    .img {
+        width: 20px;
+        height: 20px;
+    }
+    .header__mainPhoto {
+        width: 250px;
+        height: 340px;
+        margin-left: 45px;
+        margin-top: 0px;
+    }
+    .header__priceAndDescription{
+        margin-left: 40px;
+        margin-top: 0px;
+    }
+    .priceAndDescription__price {
+        font-size: 20px;
+    }
+    .priceAndDescription__description{
+        font-size: 15px;
+        height: 60px;
+        width: 250px;
+    }
+    .header__ReadMoreBtn {
+        width: 170px;
+    }
+    .ReadMoreBtn__Text {
+        font-size: 15px;
+        margin-top: 13px;
+    }
+
+    .aboutAutor{
+        display: grid;
+        width: 340px;
+        height: 750px;
+    }
+    .aboutAutor__textAndSignature{
+        margin: 50px 0px 0px 20px;
+    }
+    .aboutAutor__title{
+        font-size: 20px;
+        width: 260px;
+    }
+    .aboutAutor__mainText{
+        font-size: 15px;
+        width: 300px;
+        height: 250px;
+        margin-top: 10px;
+    }
+    .aboutAutor__signature{
+        width: 140px;
+        height: 68px;
+        margin-left: 150px;
+        margin-top: 5px;
+    }
+    .aboutAutor__autorPhoto{
+        width: 260px;
+        height: 300px;
+        margin-left: 40px;
+        margin-top: -10px;
+    }
+    .catalog{
+        width: 340px;
+    }
+    .catalog__title{
+        width: 80px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 140px;
+    }
+    .catalog__areaCard{
+        margin: 10px 0px 0px 20px;
+    }
+    .areaCard__card{
+        width: 300px;
+        height: 400px;
+        margin-right: 10px;
+    }
+    .card__Img{
+        width: 270px;
+        height: 300px;
+    }
+    .card__title{
+        font-size: 20px;
+        width: 170px;
+    }
+    .card__price{
+        font-size: 25px;
+        width: 100px;
+    }
+
+    .jobInformation{
+        width: 340px;
+        height: 910px;
+        display: grid;
+    }
+    .jobInformation__Img{
+        margin-left: 50px;
+        margin-top: 30px;
+        width: 244px;
+        height: 300px;
+    }
+    .jobInformation__mainContent{
+        margin-left: 0px;
+        margin-top: -20px;
+        width: 340px;
+    }
+    .mainContent__title{
+        margin-top: 30px;
+        margin-left: 100px;
+        width: 160px;
+        font-size: 20px;
+    }
+    .mainContent__areaBlocks{
+        margin-left: 10px;
+    }
+    .areaBlocks__line1,.areaBlocks__line2{
+        display: grid;
+    }
+    .mainContent__block{
+        width: 320px;
+        height: 120px;
+    }
+    .mainContent__titleBlock{
+        margin-top: 20px;
+    }
+
+    .factsAndQuestions{
+        width: 340px;
+    }
+    .factsAndQuestions__title{
+        width: 260px;
+        font-size: 20px;
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+    .factsAndQuestions__areaQuestionsBlock{
+        margin: 10px 0px 0px 5px;
+    }
+    .areaQuestionsBlock__Questionsblock{
+        width: 330px;
+        margin-left: 0px;
+    }
+    .QuestionsBlock__title{
+        font-size: 15px;
+        margin-top: 23px;
+    }
+    .QuestionsBlock__more{
+        font-size: 35px;
+    }
+    .question__two,.question__three,.question__four,.question__five{
+        margin-top: 15px;
+    }
+    .QuestionsOne{
+        margin-top: 13px;
+        margin-left: 100px;
+    }
+    .QuestionsTwo{
+        margin-top: 13px;
+        margin-left: 30px;
+        padding-right: 13px;
+    }
+    .QuestionsThree{
+        margin-top: 13px;
+        margin-left: 100px;
+        padding-right: 13px;
+    }
+    .QuestionsFour{
+        margin-top: 13px;
+        margin-left: 140px;
+        padding-right: 13px;
+    }
+    .QuestionsFive{
+        margin-top: 13px;
+        margin-left: 0px;
+        padding-right: 13px;
+    }
+
+    .bestChoice{
+        width: 340px;
+        height: 1720px;
+    }
+    .bestChoice__title{
+        width: 160px;
+        font-size: 25px;
+        margin-left: 90px;
+    }
+    .bestChoice__areaCard{
+        margin: 20px 0px 0px 15px;
+        width: 310px;
+        display: grid;
+    }
+
+    .peopleReview{
+        width: 340px;
+    }
+    .peopleReview__title{
+        width: 200px;
+        font-size: 20px;
+        margin-left: 70px;
+    }
+    .peopleReview__areaCardReview{
+        margin-left: 20px;
+        margin-right: 0px;
+        width: 300px;
+    }
+    .areaCardReview__card{
+        width: 360px;
+        height: 320px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .cardReview__Img{
+        width: 100px;
+        height: 100px;
+    }
+    .cardReview__name{
+        font-size: 20px;
+    }
+    .cardReview__mainText{
+        font-size: 15px;
+    }
+
+    .makeOrder{
+        width: 340px;
+        height: 900px;
+        display: grid;
+    }
+    .makeOrder__mainContent{
+        margin: 50px 0px 0px 5px;
+        width: 330px;
+    }
+    .makeOrder__title{
+        width: 160px;
+        font-size: 20px;
+        margin-left: 90px;
+    }
+    .emailInputAndTitle__emailTitle,.emailInputAndTitle__nameTitle
+    ,.mainContent__addressTitle,.emailInputAndTitle__messageTitle{
+        font-size: 15px;
+    }
+    .emailInputAndTitle__emailInput,.emailInputAndTitle__nameInput{
+        width: 150px;
+        height: 50px;
+    }
+    .emailInputAndTitle__addressInput{
+        width: 325px;
+        height: 50px;
+    }
+    .emailInputAndTitle__messageInput{
+        width: 325px;
+    }
+    .makeOrder__img{
+        width: 230px;
+        height: 320px;
+        margin-left: 55px;
+        margin-top: 0px;
+    }
+    .peopleReviewInput{
+        width: 340px;
+    }
+    .peopleReviewInput__review{
+        width: 260px;
+    }
+    .peopleReviewInput__btn{
+        margin-left: 35px;
+    }
+    .peopleReviewInput__title,.peopleReviewInput__textForImg, .peopleReviewInput__textForReview, .peopleReviewInput__textForImg, .peopleReviewInput__textForDate {
+        width: 200px;
+    }
+    .peopleReviewInput__img{
+        width: 150px;
+    }
+}
